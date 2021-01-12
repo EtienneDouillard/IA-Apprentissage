@@ -13,10 +13,10 @@ Professeur : Ayoub KARINE
   * CM4 : Synthèse
 
 ### Travaux pratiques : 
-  * CM1 : Généralités 
-  * CM2 : Apprentissage supervisé
-  * CM3 : Apprentissage non supervisé
-  * CM4 : Synthèse
+  * TP1 : Apprentissage supervisé - Régression - 
+  * TP2 : Apprentissage supervisé - Classification -
+  * TP3 : Apprentissage non-supervisé - Réduction de la dimensionnalité -
+  * TP4 : Apprentissage non-supervisé - Clustering -
   
 ### Mini-projets :  Support Vector Machines (Régression)
 
